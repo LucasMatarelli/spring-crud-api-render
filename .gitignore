@@ -1,0 +1,15 @@
+# Compiled target
+/target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
